@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">翻译透镜</string>
+    <string name="accessibility_service_label">翻译透镜取字服务</string>
+    <string name="accessibility_service_description">用于读取框选区域内的文字并进行翻译。本服务仅读取文本、不修改任何内容，不会上传数据。</string>
+    <string name="btn_toggle">开启翻译透镜</string>
+    <string name="btn_accessibility">开启无障碍服务</string>
+    <string name="btn_battery">电池优化白名单</string>
+    <string name="status_overlay">悬浮窗</string>
+    <string name="status_accessibility">无障碍</string>
+</resources>

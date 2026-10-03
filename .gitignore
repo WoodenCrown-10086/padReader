@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+
+# 本地配置（含华为 agconnect 等敏感信息）
+local.properties
+*.jks
+*.keystore
+agconnect-services.json
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 系统
+Thumbs.db
+
+# 沙箱诊断产物（不提交）
+.acl-recovery/

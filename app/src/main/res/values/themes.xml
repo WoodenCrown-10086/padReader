@@ -1,0 +1,4 @@
+<resources>
+    <!-- 使用 Material 3 日/夜主题 -->
+    <style name="Theme.Translens" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
